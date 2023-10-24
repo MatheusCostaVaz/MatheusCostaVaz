@@ -1,16 +1,20 @@
-### Hi there 👋
+## 👋 Olá! 
 
-<!--
-**MatheusCostaVaz/MatheusCostaVaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Matheus Costa Vaz, e sou um recém-formado em Engenharia da Computação apaixonado por programação e tecnologia.
 
-Here are some ideas to get you started:
+🚀 Busco oportunidades de crescimento e desenvolvimento profissional na área da programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Tenho como objetivo encontrar um ambiente de trabalho dinâmico, onde posso desafiar e expandir minhas competências.
+
+🌟 Almejo construir um plano de carreira sólido e progredir nessa área promissora.
+
+🌐 Acredito que a tecnologia tem um impacto significativo no mercado de trabalho atual e estou determinado a contribuir para as inovações e soluções tecnológicas que estão moldando o futuro.
+
+💻 Como graduado em Engenharia da Computação, possuo sólidos conhecimentos em programação e na construção de sistemas computacionais.
+
+🤝 Tenho habilidades em desenvolvimento de software, resolução de problemas e trabalho em equipe.
+
+📚 Sou comprometido, proativo e estou sempre em busca de aprendizado contínuo para me manter atualizado com as últimas tendências da área.
+
+Vamos construir o futuro da tecnologia juntos! 🌍
+
