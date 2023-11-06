@@ -38,5 +38,5 @@
 
 <h2>GitHub Stats</h2>
 
-<a><code>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCostaVaz&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)</code>
+<code>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCostaVaz&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)</code>
 
