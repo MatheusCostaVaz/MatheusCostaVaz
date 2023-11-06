@@ -32,3 +32,5 @@
   <code><a href="https://www.microsoft.com/pt-br/sql-server" target="blank"><img height="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></a></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 </p>
+
+<h2 align="left">[Baixar CV](Currículo - Matheus Costa Vaz.pdf)</h2>
