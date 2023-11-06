@@ -1,20 +1,16 @@
-## 👋 Olá! 
+<h1 align="center">Olá 👋, me chamo Matheus Costa Vaz</h1>
+<h3 align="center">Um desenvolvedor back-end Java!</h3>
 
-Meu nome é Matheus Costa Vaz, e sou um recém-formado em Engenharia da Computação apaixonado por programação e tecnologia.
+- 📫 Como entrar em contato comigo **matheuscostav@outlook.com**
 
-🚀 Busco oportunidades de crescimento e desenvolvimento profissional na área da programação.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/matheuscostavaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheuscostavaz" height="30" width="40" /></a>
+</p>
 
-💡 Tenho como objetivo encontrar um ambiente de trabalho dinâmico, onde posso desafiar e expandir minhas competências.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-🌟 Almejo construir um plano de carreira sólido e progredir nessa área promissora.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuscostavaz&show_icons=true&locale=en&layout=compact" alt="matheuscostavaz" /></p>
 
-🌐 Acredito que a tecnologia tem um impacto significativo no mercado de trabalho atual e estou determinado a contribuir para as inovações e soluções tecnológicas que estão moldando o futuro.
-
-💻 Como graduado em Engenharia da Computação, possuo sólidos conhecimentos em programação e na construção de sistemas computacionais.
-
-🤝 Tenho habilidades em desenvolvimento de software, resolução de problemas e trabalho em equipe.
-
-📚 Sou comprometido, proativo e estou sempre em busca de aprendizado contínuo para me manter atualizado com as últimas tendências da área.
-
-Vamos construir o futuro da tecnologia juntos! 🌍
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheuscostavaz&" alt="matheuscostavaz" /></p>
