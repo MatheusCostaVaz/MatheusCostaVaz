@@ -35,3 +35,8 @@
 
 <h2 align="left">Currículo:</h2>
 <code><a href="https://uniceuma-my.sharepoint.com/:b:/g/personal/matheus92274_ceuma_com_br/ESj-TLI7pjZPhYdpksC8v80Bj4J0PFMIZVU5eoYs3d7kmA?e=1G0IyC" target="blank"><img  height="40" src="https://cdn-icons-png.flaticon.com/512/54/54702.png"/></a></code>
+
+<h2>GitHub Stats</h2>
+
+<a><code>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCostaVaz&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)</code>
+
