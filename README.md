@@ -33,8 +33,9 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 </p>
 
-<h2 align="left">Currículo:</h2>
-<code><a href="https://github.com/MatheusCostaVaz/MatheusCostaVaz/blob/main/Curr%C3%ADculo%20-%20Matheus%20Costa%20Vaz.pdf" target="blank"><img  height="40" src="https://cdn-icons-png.flaticon.com/512/54/54702.png"/></a></code>
+<h2 align="left">Projetos:</h2>
+<code><a href="https://fokus.matheuscostav.vercel.app/" target="blank"><img height="40" src="https://raw.githubusercontent.com/MatheusCostaVaz/foco/main/imagens/favicon.ico"></a></code>
+<code><a href="https://bateria.matheuscostav.vercel.app/" target="blank"><img height="40" src="https://github.com/MatheusCostaVaz/bateria/blob/main/images/bateria.png?raw=true"></a></code>
 
 <h2>GitHub Stats</h2>
 
