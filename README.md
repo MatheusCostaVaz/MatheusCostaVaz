@@ -34,6 +34,7 @@
 </p>
 
 <h2 align="left">Projetos:</h2>
+<code><a href="https://deliciasroyal.matheuscostav.vercel.app/" target="blank"><img height="40" src="https://github.com/MatheusCostaVaz/front-delicias-royal/blob/main/imagens/logo.png?raw=true"></a></code>
 <code><a href="https://fokus.matheuscostav.vercel.app/" target="blank"><img height="40" src="https://raw.githubusercontent.com/MatheusCostaVaz/foco/main/imagens/favicon.ico"></a></code>
 <code><a href="https://bateria.matheuscostav.vercel.app/" target="blank"><img height="40" src="https://github.com/MatheusCostaVaz/bateria/blob/main/images/bateria.png?raw=true"></a></code>
 
