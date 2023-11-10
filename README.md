@@ -37,6 +37,7 @@
 <code><a href="https://deliciasroyal.matheuscostav.vercel.app/" target="blank"><img height="40" src="https://github.com/MatheusCostaVaz/front-delicias-royal/blob/main/imagens/logo.png?raw=true"></a></code>
 <code><a href="https://fokus.matheuscostav.vercel.app/" target="blank"><img height="40" src="https://raw.githubusercontent.com/MatheusCostaVaz/foco/main/imagens/favicon.ico"></a></code>
 <code><a href="https://bateria.matheuscostav.vercel.app/" target="blank"><img height="40" src="https://github.com/MatheusCostaVaz/bateria/blob/main/images/bateria.png?raw=true"></a></code>
+<code><a href="https://numerosecreto.matheuscostav.vercel.app/" target="blank"><img height="40" src="https://github.com/MatheusCostaVaz/numero-secreto/blob/main/imagens/icon.png?raw=true"></a></code>
 
 <h2>GitHub Stats</h2>
 
