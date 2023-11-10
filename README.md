@@ -39,6 +39,9 @@
 <code><a href="https://bateria.matheuscostav.vercel.app/" target="blank"><img height="40" src="https://github.com/MatheusCostaVaz/bateria/blob/main/images/bateria.png?raw=true"></a></code>
 <code><a href="https://numerosecreto.matheuscostav.vercel.app/" target="blank"><img height="40" src="https://github.com/MatheusCostaVaz/numero-secreto/blob/main/imagens/icon.png?raw=true"></a></code>
 
+<h2 align="left">Currículo:</h2>
+<code><a href="https://uniceuma-my.sharepoint.com/:b:/g/personal/matheus92274_ceuma_com_br/ESj-TLI7pjZPhYdpksC8v80Bj4J0PFMIZVU5eoYs3d7kmA?e=lLrqla" target="blank"><img height="40" src="https://static-00.iconduck.com/assets.00/resume-icon-2048x2048-jdk3bnyx.png"></a></code>
+
 <h2>GitHub Stats</h2>
 
 <code>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCostaVaz&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)</code>
