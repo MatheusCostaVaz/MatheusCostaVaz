@@ -11,7 +11,7 @@
  - <code><a href="https://www.linkedin.com/in/matheuscostavaz" target="blank"><img height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheuscostavaz"/></a></code>: 
 https://www.linkedin.com/in/matheuscostavaz 
  - <code><a href="https://instagram.com/matheuxvaz" target="blank"><img  height="40" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" alt="matheuxvaz" /></a></code>: https://instagram.com/matheuxvaz
- - <code><a href="mailto:matheuscostav@outlook.com" target="blank"><img  height="40" src="https://cdn-icons-png.flaticon.com/512/7718/7718904.png" alt="mailto:matheuscostav@outlook.com" /></a></code>: matheuscostav@outlook.com
+ - <code><a href="mailto:matheuscostav@outlook.com" target="blank"><img  height="40" src="https://cdn-icons-png.flaticon.com/512/7718/7718904.png" alt="mailto:matheuscostav@outlook.com" /></a></code>: <code><h3>matheuscostav@outlook.com</h3></code>
 </p>
 
 <h2 align="left">Habilidades:</h2>
