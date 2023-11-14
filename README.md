@@ -8,7 +8,7 @@
 <h2 align="left">Contatos:</h2>
 <p align="left">
 <code><a href="https://www.linkedin.com/in/matheuscostavaz" target="blank"><img height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheuscostavaz"/></a></code>: 
-<code><a>https://www.linkedin.com/in/matheuscostavaz</a></code>
+<code><a href="https://www.linkedin.com/in/matheuscostavaz/" target="_blank">https://www.linkedin.com/in/matheuscostavaz/</a></code>
  
 <code><a href="https://instagram.com/matheuxvaz" target="blank"><img  height="40" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" alt="matheuxvaz" /></a></code>: <code><a>https://www.instagram.com/matheuxvaz</a></code>
  
