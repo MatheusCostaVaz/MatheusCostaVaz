@@ -17,8 +17,8 @@
 <h2 align="left">Habilidades:</h2>
 <p align="left">
   <h4 align="left">Linguagens de Programação:</h4> 
-  <code><a href="https://www.java.com" target="blank"><img height="30" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a></code>
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></a></code>
+  <code><a href="https://www.java.com" target="blank"><img height="30" src="https://img.shields.io/badge/JAVA-BLACK?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&color=white"></a></code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img height="30" src="https://img.shields.io/badge/JAVASCRIPT-BLACK?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E"></a></code>
   <code><a href="https://www.python.org/" target="blank"><img height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a></code>  
 
   <h4 align="left">Frameworks e Bibliotecas:</h4> 
