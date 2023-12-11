@@ -23,7 +23,6 @@
 
   <h4 align="left">Frameworks e Bibliotecas:</h4> 
   <code><a href="https://spring.io/" target="blank"><img height="30" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a></code>
-  <code><a href="https://nodejs.org/en" target="blank"><img height="30" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a></code>
   <code><a href="https://vuejs.org/" target="blank"><img height="30" src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a></code>
   <code><a href="https://angular.io/" target="blank"><img height="30" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a></code>
   <code><a href="https://pandas.pydata.org/" target="blank"><img height="30" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a></code>  
