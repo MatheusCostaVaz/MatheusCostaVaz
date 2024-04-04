@@ -19,7 +19,7 @@
   <h4 align="left">Linguagens de Programação:</h4> 
   <code><a href="https://www.java.com" target="blank"><img height="30" src="https://img.shields.io/badge/JAVA-BLACK?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&color=white"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img height="30" src="https://img.shields.io/badge/JAVASCRIPT-BLACK?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E"></a></code>
-  <code><a href="https://www.python.org/" target="blank"><img height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a></code>  
+  <code><a href="https://www.typescriptlang.org/" target="blank"><img height="30" src="https://img.shields.io/badge/TYPESCRIPT-blue?style=for-the-badge&logo=TYPESCRIPT&logoColor=white&labelColor=blue&color=white"></a></code>  
 
   <h4 align="left">Frameworks e Bibliotecas:</h4> 
   <code><a href="https://spring.io/" target="blank"><img height="30" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a></code>
