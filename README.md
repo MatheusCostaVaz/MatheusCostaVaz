@@ -40,7 +40,7 @@
 <code><a href="https://numerosecreto.matheuscostav.vercel.app/" target="blank"><img height="30" src="https://github.com/MatheusCostaVaz/numero-secreto/blob/main/imagens/icon.png?raw=true"></a></code>
 
 <h2 align="left">Currículo:</h2>
-<code><a href="https://uniceuma-my.sharepoint.com/:b:/g/personal/matheus92274_ceuma_com_br/EdU2LFNx2vdBvbwcyJUx9IgBBO68cSRMzEdtJ1eIuSTqVw?e=lwH60s" target="blank"><img height="30" src="https://img.shields.io/badge/CURR%C3%8DCULO-797676?style=for-the-badge&logo=readdotcv&logoColor=black"></a></code>
+<code><a href="https://1drv.ms/b/s!Ar5GlgjTXgRZvSiQv7RR_p673GNa?e=QfNP3z" target="blank"><img height="30" src="https://img.shields.io/badge/CURR%C3%8DCULO-797676?style=for-the-badge&logo=readdotcv&logoColor=black"></a></code>
 <code><a href="https://uniceuma-my.sharepoint.com/:b:/g/personal/matheus92274_ceuma_com_br/EaZo5GQc8TtApzNnId8ZJ8QB5DcSDAptdJX9LOn9FG7_7A?e=y6zxt2" target="blank"><img height="30" src="https://img.shields.io/badge/RESUME-797676?style=for-the-badge&logo=readdotcv&logoColor=black"></a></code>
 
 <h2>GitHub Stats</h2>
