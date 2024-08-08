@@ -34,14 +34,14 @@
 </p>
 
 <h2 align="left">Projetos:</h2>
-<code><a href="https://deliciasroyal.matheuscostav.vercel.app/" target="blank"><img height="30" src="https://github.com/MatheusCostaVaz/front-delicias-royal/blob/main/imagens/logo.png?raw=true"></a></code>
-<code><a href="https://fokus.matheuscostav.vercel.app/" target="blank"><img height="30" src="https://raw.githubusercontent.com/MatheusCostaVaz/foco/main/imagens/favicon.ico"></a></code>
-<code><a href="https://bateria.matheuscostav.vercel.app/" target="blank"><img height="30" src="https://github.com/MatheusCostaVaz/bateria/blob/main/images/bateria.png?raw=true"></a></code>
-<code><a href="https://numerosecreto.matheuscostav.vercel.app/" target="blank"><img height="30" src="https://github.com/MatheusCostaVaz/numero-secreto/blob/main/imagens/icon.png?raw=true"></a></code>
+<code><a href="https://deliciasroyal.matheuscostav.vercel.app/" target="blank" rel="noreferrer noopener"><img height="30" src="https://github.com/MatheusCostaVaz/front-delicias-royal/blob/main/imagens/logo.png?raw=true"></a></code>
+<code><a href="https://fokus.matheuscostav.vercel.app/" target="blank" rel="noreferrer noopener"><img height="30" src="https://raw.githubusercontent.com/MatheusCostaVaz/foco/main/imagens/favicon.ico"></a></code>
+<code><a href="https://bateria.matheuscostav.vercel.app/" target="blank" rel="noreferrer noopener"><img height="30" src="https://github.com/MatheusCostaVaz/bateria/blob/main/images/bateria.png?raw=true"></a></code>
+<code><a href="https://numerosecreto.matheuscostav.vercel.app/" target="blank" rel="noreferrer noopener"><img height="30" src="https://github.com/MatheusCostaVaz/numero-secreto/blob/main/imagens/icon.png?raw=true"></a></code>
 
 <h2 align="left">Currículo:</h2>
-<code><a href="https://1drv.ms/b/s!Ar5GlgjTXgRZvSiQv7RR_p673GNa?e=QfNP3z" target="blank"><img height="30" src="https://img.shields.io/badge/CURR%C3%8DCULO-797676?style=for-the-badge&logo=readdotcv&logoColor=black"></a></code>
-<code><a href="https://1drv.ms/b/s!Ar5GlgjTXgRZvS1RuRP6pHj-LI6b?e=qg8kBK" target="blank"><img height="30" src="https://img.shields.io/badge/RESUME-797676?style=for-the-badge&logo=readdotcv&logoColor=black"></a></code>
+<code><a href="https://1drv.ms/b/s!Ar5GlgjTXgRZvSiQv7RR_p673GNa?e=QfNP3z" target="blank" rel="noreferrer noopener"><img height="30" src="https://img.shields.io/badge/CURR%C3%8DCULO-797676?style=for-the-badge&logo=readdotcv&logoColor=_black"></a></code>
+<code><a href="https://1drv.ms/b/s!Ar5GlgjTXgRZvS1RuRP6pHj-LI6b?e=qg8kBK" target="_blank" rel="noreferrer noopener" contextmenu="openInNewTab()"><img height="30" src="https://img.shields.io/badge/RESUME-797676?style=for-the-badge&logo=readdotcv&logoColor=_black"></a></code>
 
 <h2>GitHub Stats</h2>
 
