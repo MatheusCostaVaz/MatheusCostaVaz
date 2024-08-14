@@ -11,7 +11,7 @@
  
 <code><a href="https://instagram.com/matheuxvaz" target="blank"><img  height="30" src="https://img.shields.io/badge/@matheuxvaz-D0D4CA?style=for-the-badge&logo=instagram" alt="matheuxvaz" /></a></code> 
  
-<code><a href="mailto:matheuscostav@outlook.com" target="blank"><img  height="30" src="https://img.shields.io/badge/matheuscostav%40outlook.com-D0D4CA?style=for-the-badge&logo=microsoft-outlook&logoColor=blue" alt="mailto:matheuscostav@outlook.com" /></a></code>
+<code><a href="mailto:matheuscostav@outlook.com" target="blank"><img  height="30" src="https://img.shields.io/badge/matheuscostav%40outlook.com-D0D4CA?style=for-the-badge&logo=gmail&logoColor=blue" alt="mailto:matheuscostav@outlook.com" /></a></code>
 </p>
 
 <h2 align="left">Habilidades:</h2>
