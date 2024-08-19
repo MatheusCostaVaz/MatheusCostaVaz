@@ -46,5 +46,3 @@
 <h2>GitHub Stats</h2>
 
 <code>![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatheusCostaVaz&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)</code>
-
-[![](https://visitcount.itsvg.in/api?id=MatheusCostaVaz&icon=0&color=0)](https://visitcount.itsvg.in)
